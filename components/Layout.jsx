@@ -298,7 +298,7 @@ const NavBar = () => {
             <nav className="nav">
                 <Link href="/">
                     <a className="header">
-                        <img className="icon" src={theme === "dark" ? "/ecoswap-white.png" : "/ecoswap.png"}></img>
+                        <img className="icon" src={theme === "dark" ? "/zebraswap.jpg" : "/zebraswap.jpg"}></img>
                         <div className="title">EcoSwap</div>
                     </a>
                 </Link>
